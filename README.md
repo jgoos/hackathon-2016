@@ -4,10 +4,16 @@ De meeste van ons hebben een eigen toolset die gebruikt worden tijdens het maken
 je een lijst van tooling die handig zijn indien je niet zo'n lijst hebt. Zodat je snel kan beginnen zonder al te
 veel zoeken.
 
-#  Python framework tutorials
-Flask Mega Tutorial             - http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+# Editors
+Atom                            - https://atom.io/
 
-Django Tutorial                 - https://docs.djangoproject.com/en/1.10/intro/tutorial01/  
+Eclipse                         - https://eclipse.org/downloads/
+
+Notepad++                       - http://notepad-plus-plus.org
+
+Sublime text                    - http://www.sublimetext.com/3
+
+Visual Studio                   - http://www.microsoft.com/visualstudio/eng/products/visual-studio-overview
 
 # Programming Tutorials
 Python 3                        - https://docs.python.org/3/tutorial/
@@ -20,6 +26,13 @@ Bash Tutorials                  - http://tldp.org/LDP/Bash-Beginners-Guide/html/
 
 Golang Tutorials                - https://gobyexample.com
 
+HTML en CSS Tutorials           -  http://www.w3schools.com/html/
+
+#  Python framework tutorials
+Flask Mega Tutorial             - http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+Django Tutorial                 - https://docs.djangoproject.com/en/1.10/intro/tutorial01/  
+
 #  Architecture  drawing
 Lucidchart                      - https://www.lucidchart.com
 
@@ -27,6 +40,8 @@ Smartdraw                       - https://www.smartdraw.com
 
 #  Debugging
 Python3  debugger               -  https://docs.python.org/3/library/pdb.html
+
+Golang  debugger                -  https://golang.org/doc/gdb
 
 OWASP Zed Attack Proxy Project  -  https://www.owasp.org/index.php/ZAP
 
