@@ -65,3 +65,6 @@ Golang  debugger                -  https://golang.org/doc/gdb
 
 OWASP Zed Attack Proxy Project  -  https://www.owasp.org/index.php/ZAP
 
+
+#  More links tool-list
+Web dev tools 100+ list          - https://www.keycdn.com/blog/web-development-tools/
