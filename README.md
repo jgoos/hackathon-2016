@@ -77,26 +77,35 @@ OWASP Zed Attack Proxy Project  -  https://www.owasp.org/index.php/ZAP
 Web dev tools 100+ list          - https://www.keycdn.com/blog/web-development-tools/
 
 ## Ansible Role  Structure
-roles
-|__ defaults
+    roles
+        |__ defaults
 
-    |__ main.yml - includes information about default variables used by this role
+            |__ main.yml - includes information about default variables used by this role
 
-|__ files        - files which need to be deployed to your hosts without any modification.
+    
+        |__ files        - files which need to be deployed to your hosts without any modification.
 
-|__ templates    - using jinja2 templating system, configuration variables can
-                   be passed to templates and those modified templates will be
-                   placed on the hosts
+    
+        |__ templates    - using jinja2 templating system, configuration variables can
+                            be passed to templates and those modified templates will be
+                            placed on the hosts
 
-|__ tasks        - each play can contain multiple task, and each task can perform multiple actions.
-    |__ main.yml
+        |__ tasks        - each play can contain multiple task, and each task can perform multiple actions.
+    
+             |__ main.yml
 
-|__ meta         - environment Description, Author, Licensing Attributes etc. are placed.
-    |__ main.yml
+    
+        |__ meta         - environment Description, Author, Licensing Attributes etc. are placed.
+    
+             |__ main.yml
 
-|__ vars         - variables as username, folder name are stored in vars.
-    |__ main.yml
+    
+        |__ vars         - variables as username, folder name are stored in vars.
+    
+             |__ main.yml
 
-|__ handlers     - tasks which are executed on completion of other tasks.
+    
+        |__ handlers     - tasks which are executed on completion of other tasks.
                    think of them as callbacks.
-    |__ main.yml
+    
+             |__ main.yml
