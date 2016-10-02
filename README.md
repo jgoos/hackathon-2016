@@ -4,7 +4,10 @@
 Indien je geen idee hebt  wat te maken dan vindt je hier onder enkele ideeën . Natuurlijk kun je ook aansluiten bij een groepje die wat gaan maken wat je interessant lijkt. Veel plezier!
 
 Change Management     - Input change, check cmdb en output change window naar klant (die hij zelf kan kiezen).
+
 Update  Host          - Geen satellite, maar standaard  repos tooling  om na image installatie een systeem te updaten.
+
+Brainstorm lijst toevoegen
 
 # Tooling List
 De meeste van ons hebben een eigen toolset die gebruikt worden tijdens het maken van applicaties. Hieronder vindt
