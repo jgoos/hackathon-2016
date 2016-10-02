@@ -68,6 +68,9 @@ Lucidchart                      - https://www.lucidchart.com
 
 Smartdraw                       - https://www.smartdraw.com
 
+##  DB Tools
+Flask  SQLAlchemy               -  https://www.tutorialspoint.com/flask/flask_sqlalchemy.htm
+
 ##  Debugging
 Python3  debugger               -  https://docs.python.org/3/library/pdb.html
 
