@@ -1,8 +1,9 @@
-# Hackathon-2016
-Hackathon 2016 Tooling List
+# Hackathon 2016 Tooling List
 De meeste van ons hebben een eigen toolset die gebruikt worden tijdens het maken van applicaties. Hieronder vindt
 je een lijst van tooling die handig zijn indien je niet zo'n lijst hebt. Zodat je snel kan beginnen zonder al te
 veel zoeken.
+
+
 
 # Editors
 Atom                            - https://atom.io/
