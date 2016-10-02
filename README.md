@@ -28,10 +28,30 @@ Golang Tutorials                - https://gobyexample.com
 
 HTML en CSS Tutorials           -  http://www.w3schools.com/html/
 
-#  Python framework tutorials
+# Web framework tutorials
 Flask Mega Tutorial             - http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 Django Tutorial                 - https://docs.djangoproject.com/en/1.10/intro/tutorial01/  
+
+Ruby                            - http://rubyonrails.org
+
+Codeignitor                     - https://www.codeigniter.com
+
+Angularjs                       - https://angularjs.org
+
+# Front-end Frameworks
+Bootstrap                       - http://getbootstrap.com
+
+Foundation                      - http://foundation.zurb.com
+
+# JavaScript Libraries
+jquery                          - http://jquery.com
+
+Backbonejs                      - http://backbonejs.org
+
+jquery UI                       - http://jqueryui.com
+
+jquery Mobile                   - http://jquerymobile.com
 
 #  Architecture  drawing
 Lucidchart                      - https://www.lucidchart.com
