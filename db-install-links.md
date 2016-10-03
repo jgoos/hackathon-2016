@@ -7,7 +7,7 @@ MariaDB op CentOS 7:
 
 https://www.linode.com/docs/databases/mariadb/how-to-install-mariadb-on-centos-7
 
-Of onderstaande
+# Of via onderstaande HTTP en MariaDB install
 
 Install some packages:<br>
 yum -y install httpd php php-mysql mariadb-server mariadb sqlite php-dom php-mbstring php-gd php-pdo wget<br>
