@@ -68,6 +68,8 @@ Enkele andere die handig zijn maar niet altijd gebruikt worden zijn:
  
  $ flask/bin/pip install coverage
 
+
+
 Als user:
 $ vi app.py
 
@@ -84,8 +86,11 @@ $ vi app.py
       app.run()
 
 
+
 Run de code:
  $ python app.py
+
+
 
 In second connection:
  $ curl http://127.0.0.1:5000/
