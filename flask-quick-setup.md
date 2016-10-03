@@ -85,7 +85,7 @@ $ vi app.py
 
 
 Run de code:
-$ python app.py
+ $ python app.py
 
 In second connection:
-$ curl http://127.0.0.1:5000/
+ $ curl http://127.0.0.1:5000/
