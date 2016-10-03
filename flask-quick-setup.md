@@ -1,5 +1,6 @@
 # Install
 Installeer een rhel of centos 7 systeem:
+
  # yum -y install python-virtualenv.noarch
  
  # yum -y install python python-flask python-jinja2 curl wget git
