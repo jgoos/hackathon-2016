@@ -4,6 +4,8 @@ Installeer een rhel of centos 7 systeem:
  
  # yum -y install python python-flask python-jinja2 curl wget git
 
+ # yum -y install postgresql-devel gcc
+ 
 Zelf poorten toevoegen of voor bouw server firewalld uit:
  # systemctl disable firewalld 
  
