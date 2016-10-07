@@ -1,7 +1,8 @@
 # Hackathon 2016 
 
- Beschrijving: https://www.pleio.nl/events/event/view/45145812/hackathon-18-november-2016
- Lokatie: https://www.google.nl/maps/place/Johan+Huizingalaan+763A,+1066+VH+Amsterdam/@52.3430429,4.8270918,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5e18eae78495d:0x69f2205bc0250fb4!8m2!3d52.3430396!4d4.8292805
+ Beschrijving: https://www.pleio.nl/events/event/view/45145812/hackathon-18-november-2016  <br>
+ <br>
+ Lokatie: https://www.google.nl/maps/place/Johan+Huizingalaan+763A,+1066+VH+Amsterdam/@52.3430429,4.8270918,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5e18eae78495d:0x69f2205bc0250fb4!8m2!3d52.3430396!4d4.8292805 <br>
 
 # Ideeën
 Indien je geen idee hebt  wat te maken dan vindt je hier onder enkele ideeën . Natuurlijk kun je ook aansluiten bij een groepje die wat gaan maken wat je interessant lijkt. Veel plezier!
