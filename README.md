@@ -7,7 +7,15 @@
 # Ideeën
 Indien je geen idee hebt  wat te maken dan vindt je hier onder enkele ideeën . Natuurlijk kun je ook aansluiten bij een groepje die wat gaan maken wat je interessant lijkt. Veel plezier!
 
-Change Management     - Input change, check cmdb en output change window naar klant (die hij zelf kan kiezen).
+Simpele depot omgeving:
+simpeler dan satellite die meerdere soorten aankan (zie bijvoorbeeld pulp)
+  
+Galaxy hub intern bruikbaar maken:
+galaxy hub is opensource. Maak iets vergelijkbaars of pas aan, zodat intern ook ansible playbooks geupload kunnen worden en gedeelt onder elkaar
+
+Change machine:
+aanmaken van change software, met tijd vakken die klant kan kiezen en koppelingen met backend systemen (CMDB, server owner lijsten enz).
+input change, check cmdb en output change window naar klant (die hij zelf kan kiezen).
 
 !!!!!!!!!!!!!!Nog de brainstorm lijst toevoegen!!!!!!!!!!
 
